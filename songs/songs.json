@@ -1,0 +1,57 @@
+{
+    "Angry": {
+      "title": "Angry Playlist",
+      "description": "Best of NoCopyrightSounds",
+      "cover": "songs/Angry/cover.jpg",
+      "songs": ["Believer.mp3"]
+    },
+    "Bright": {
+      "title": "Bright Beats",
+      "description": "Bright music",
+      "cover": "songs/Bright/cover.jpg",
+      "songs": ["Freestyle.mp3"]
+    },
+    "Chill": {
+      "title": "Chill Beats",
+      "description": "Relaxing chill music",
+      "cover": "songs/Chill/cover.jpg",
+      "songs": ["Lovesick.mp3"]
+    },
+    "Dark": {
+      "title": "Dark Beats",
+      "description": "Relaxing chill music",
+      "cover": "songs/Dark/cover.jpg",
+      "songs": ["Hathyar_6.mp3"]
+    },
+    "Diljit": {
+      "title": "Diljit Beats",
+      "description": "Relaxing chill music",
+      "cover": "songs/Diljit/cover.jpg",
+      "songs": ["12.mp3"]
+    },
+    "Funky": {
+      "title": "Funky Beats",
+      "description": "Relaxing chill music",
+      "cover": "songs/Funky/cover.jpg",
+      "songs": ["Lagdi lahore di.mp3"]
+    },
+    "Love": {
+      "title": "Love Beats",
+      "description": "Relaxing chill music",
+      "cover": "songs/Love/cover.jpg",
+      "songs": ["Lagdi lahore di.mp3"]
+    },
+    "ncs": {
+      "title": "ncs Beats",
+      "description": "Relaxing chill music",
+      "cover": "songs/ncs/cover.jpg",
+      "songs": ["In-The-End.mp3","Never Surrender.mp3"]
+    },
+    "Uplifting": {
+      "title": "Uplifting Beats",
+      "description": "Relaxing chill music",
+      "cover": "songs/Uplifting/cover.jpg",
+      "songs": ["Memories.mp3"]
+    }
+  }
+  
